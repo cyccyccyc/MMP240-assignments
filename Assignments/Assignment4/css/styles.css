@@ -1,0 +1,134 @@
+body{
+    font-family: sans-serif;
+    font-size: 12px;
+    margin-left: 1%;
+    margin-right: 1%;
+    
+}
+
+header{
+    margin: 1% 1%;
+}
+
+h1{
+    font-size: 28px;
+}
+
+h2{
+    font-size: 24px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+h4{
+    font-size: 16px;
+}
+
+h5{
+    font-size: 12px;
+}
+
+.info{
+    
+}
+
+ul, ol {
+    margin-top: 1%;
+    margin-left: 5%;
+    list-style: inherit;
+}
+
+a{
+    color: blue;
+    text-transform: uppercase;
+    text-decoration:none
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+.president-article{
+    margin-left: 1%;
+}
+
+.congress-article{
+    margin-left: 1%;
+}
+
+.branches{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+.cabinet-members{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+.congress-section{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+.senate-members{
+    margin-left: 5%;
+}
+
+.house-section{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+
+.house-members{
+    margin-left: 5%;
+}
+
+
+.nys-assembly-section{
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+.democratic-primary{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+.democratic-primary h3{
+    color: blue;
+    font-weight: bolder;
+}
+.republican-primary{
+    margin-top: 1%;
+    margin-left: 5%;
+}
+.republican-primary h3{
+    color: red;
+    font-weight: bolder;
+}
+
+.nys-senate-section{
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+.person{
+    font-weight: 200;
+    font-size: 20px;
+    
+}
+
+.person-title{
+    
+}
+
+.person-bio{
+    
+}
+
+.sources{
+    margin-top: 5%;
+    
+}
